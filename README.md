@@ -61,8 +61,8 @@ A `SST2Dataset` class provides the data loading and preparation for the sentimen
     ```
 2.  **Clone the Repository:**
     ```bash
-    git clone [[repository_link]](https://github.com/ahmadpanah/TS-DTP)
-    cd [TS-DTP]
+    git clone https://github.com/ahmadpanah/TS-DTP
+    cd TS-DTP
     ```
 3.  **Run the Code:**
     ```bash
